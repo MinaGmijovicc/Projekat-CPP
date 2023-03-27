@@ -1,0 +1,7 @@
+1 0 smoki 150 52 70 22
+2 1 rosa 80 0 32 0
+3 1 pivo 720 1 1 0
+4 0 grisice 35 5 54 45
+5 1 fanta 120 75 94 1
+6 1 next 90 0 36 0
+7 0 napolitanka 100 51 54 2

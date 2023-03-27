@@ -1,0 +1,5 @@
+Sifra = 2 Naziv = rosa Vrsta = 1 Cena = 80 Seceri = 0 Ugljeni hidrati = 32 Gazirano = 0
+
+Sifra = 1 Naziv = smoki Vrsta = 0 Cena = 150 Seceri = 52 Ugljeni hidrati = 70 So = 22
+
+Racun: 230
